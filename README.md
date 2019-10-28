@@ -1,8 +1,6 @@
 # IT_Ticket_Intake
 ML Solution for Ticket Intake
 
-Ownership & Maintenance:
-
 This repository is owned by Cantel IT and maintained by the Advanced Analytics organization.
 
 Overview:
