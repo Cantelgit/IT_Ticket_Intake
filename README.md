@@ -14,7 +14,7 @@ Current Process:
 The IT department relies on a 3rd party vendor to examine new tickets that flow into ServiceNow. The vendor is responsible for 
 filling-out specific fields to correctly categorize the ticket, including "Business Service", "Assignment Group", and "Assigned-To".
 Every interaction with a ticket costs the organization $13 dollars; anecdotal evidence suggests poor accuracy and latency.
-On average, 1600 tickets flow through this process every month.
+On average, 1600 tickets flow through 3rd party vendor interactions every month.
 
 Improved Process:
 Using a Machine Learning model to make predictions, the Advanced Analytics organization can improve accuracy and latency while drastically
